@@ -1,0 +1,14 @@
+{
+  "name": "genpark-vcg-auction-truthful-mechanism-skill",
+  "version": "1.0.0",
+  "description": "Vickrey-Clarke-Groves (VCG) truthful mechanism design auction engine ensuring dominant strategy incentive compatibility.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "vcg-auction",
+    "mechanism-design",
+    "game-theory",
+    "truthfulness",
+    "dsic"
+  ]
+}
